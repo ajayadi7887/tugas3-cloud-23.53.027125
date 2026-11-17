@@ -1,13 +1,13 @@
-/* Tema Utama Versi 1: Biru Navy */
+/* Tema Utama Versi 2: Hijau Zamrud (Emerald) */
 :root {
-  --primary: #1e3a8a;
-  --primary-light: #2563eb;
-  --accent: #dbeafe;
-  --bg: #f8fafc;
+  --primary: #065f46;
+  --primary-light: #059669;
+  --accent: #d1fae5;
+  --bg: #f0fdf4;
   --card-bg: #ffffff;
   --text: #1e293b;
   --text-muted: #64748b;
-  --border: #e2e8f0;
+  --border: #bbf7d0;
 }
 
 * {
